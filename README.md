@@ -1,5 +1,8 @@
-[New_Projectisaidoooooooooohimblindedbythelights-removebg-preview](https://github.com/user-attachments/assets/80f022f3-ee82-4a36-b27c-666ecde0ab82)
+
+
+![New_Projectisaidoooooooooohimblindedbythelights-removebg-preview](https://github.com/user-attachments/assets/f76d4c42-bfec-4f1d-9b2d-52b50f282dbe)
 # SkitDetector 🕵️‍♂️
+
 An advanced AI-powered tool to detect potentially skidded code using Google's Gemini AI.
 
 ## Features
