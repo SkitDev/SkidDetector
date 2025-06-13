@@ -1,4 +1,6 @@
 
+![best-removebg-preview](https://github.com/user-attachments/assets/a929b0a7-e590-4c99-a94d-ec8b95b2e26c)
+
 # SkitDetector 🕵️‍♂️
 
 An advanced AI-powered tool to detect potentially skidded code using Google's Gemini AI.
